@@ -45,9 +45,6 @@ This repository serves as a collection of free and open-source software (FOSS) a
 - **[Spotube](https://github.com/KRTirtho/spotube)**  
   A Flutter-based lightweight Spotify client.
 
-- **[Soundbound](https://github.com/Shabinder/Soundbound)**  
-  A music player with a focus on simplicity and performance.
-
 ## iOS Applications
 
 - **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**  
