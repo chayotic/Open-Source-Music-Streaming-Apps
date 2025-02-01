@@ -2,8 +2,7 @@
 
 A curated list of open-source alternatives to Spotify and YouTube Music.
 
-[![GitHub stars](https://img.shields.io/github/stars/RohithPai07/Spotify-YTMusic-FOSS-Alternatives?style=social)](https://github.com/RohithPai07/Spotify-YTMusic-FOSS-Alternatives/stargazers)
-[![GitHub license](https://img.shields.io/github/license/RohithPai07/Spotify-YTMusic-FOSS-Alternatives)](https://github.com/RohithPai07/Spotify-YTMusic-FOSS-Alternatives/blob/main/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/RohithPai07/Spotify-YTMusic-FOSS-Alternatives?style=social)
 
 ## Table of Contents
 - [Introduction](#introduction)
