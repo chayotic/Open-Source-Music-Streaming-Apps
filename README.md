@@ -73,15 +73,6 @@ This repository serves as a collection of free and open-source software (FOSS) a
 - **Download Locally:**  
   You can download songs using tools like [yt-dlp](https://github.com/yt-dlp/yt-dlp) or other downloaders and play them with an offline music player of your choice.
 
-## Contributing
-
-Contributions are welcome! If you know of an open-source project that fits this list or want to improve this repository, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request describing your changes.
 
 ## License
 
