@@ -29,9 +29,8 @@ This repository serves as a collection of free and open-source software (FOSS) a
 - **[InnerTune](https://github.com/z-huang/InnerTune)** *(inactive)*
   A Material Design music player for YouTube Music.
 
--
-**[OuterTune](https://github.com/OuterTune/OutertuneTune)**
-  A Material Design music player for YouTube Music. (fork of innertune)
+- **[OuterTune](https://github.com/OuterTune/OutertuneTune)**  
+  A Material Design music player for YouTube Music. (fork of InnerTune)
 
 - **[RiMusic](https://github.com/fast4x/RiMusic)** *(offline player)*
   A simple and elegant offline music player for Android.
