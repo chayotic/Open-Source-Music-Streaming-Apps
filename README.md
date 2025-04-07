@@ -20,17 +20,21 @@ This repository serves as a collection of free and open-source software (FOSS) a
 
 ## Android Applications
 
-- **[ViMusic](https://github.com/vfsfitvnm/ViMusic)**  
-  A Material Design YouTube Music client for Android. (currently stopped)
+- **[ViMusic](https://github.com/vfsfitvnm/ViMusic)** *(inactive)*
+  A Material Design YouTube Music client for Android.
 
 - **[SpMp](https://github.com/toasterofbread/spmp)**  
   An open-source music player integrating YouTube Music for seamless streaming.
 
-- **[InnerTune](https://github.com/z-huang/InnerTune)**  
+- **[InnerTune](https://github.com/z-huang/InnerTune)** *(inactive)*
   A Material Design music player for YouTube Music.
 
-- **[RiMusic](https://github.com/fast4x/RiMusic)**  
-  A simple and elegant music player for Android. (changing to an offline player)
+-
+**[OuterTune](https://github.com/OuterTune/OutertuneTune)**
+  A Material Design music player for YouTube Music. (fork of innertune)
+
+- **[RiMusic](https://github.com/fast4x/RiMusic)** *(offline player)*
+  A simple and elegant offline music player for Android.
 
 - **[Harmony-Music](https://github.com/anandnet/Harmony-Music)**  
   A music player with a sleek interface and support for various services.
