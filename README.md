@@ -45,7 +45,7 @@ This repository serves as a collection of free and open-source software (FOSS) a
   - Canvas (Spotify-like animations), AI recommendations  
   - Android Auto supported
 
-- **[Musify](https://github.com/bujalil-dev/Musify)**  
+- **[Musify](https://github.com/gokadzev/Musify)**  
   Lightweight and fast YouTube Music client using Piped APIs.  
   - Custom audio player  
   - Built-in downloader  
@@ -77,9 +77,6 @@ This repository serves as a collection of free and open-source software (FOSS) a
 
 - **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**  
   A YouTube Music client for iOS with a smooth interface and Google login support.
-
-- **[Piped iOS](https://github.com/TeamPiped/Piped-iOS)**  
-  A simple client for Piped that plays YouTube content with privacy in mind.
 
 ---
 
