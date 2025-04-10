@@ -1,4 +1,4 @@
-# Spotify-YTMusic-FOSS-Alternatives
+# Open Source Music Streaming Apps
 
 A curated and up-to-date list of open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
