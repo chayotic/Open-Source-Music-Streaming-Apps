@@ -1,82 +1,147 @@
 # Spotify-YTMusic-FOSS-Alternatives
 
-A curated list of open-source alternatives to Spotify and YouTube Music.
+A curated and up-to-date list of open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
 ![GitHub stars](https://img.shields.io/github/stars/RohithPai07/Spotify-YTMusic-FOSS-Alternatives?style=social)
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
+  - [YouTube Music Clients](#youtube-music-clients)
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
 - [Web-Based Applications](#web-based-applications)
 - [Additional Information](#additional-information)
-- [Contributing](#contributing)
 - [License](#license)
+
+---
 
 ## Introduction
 
-This repository serves as a collection of free and open-source software (FOSS) alternatives for music streaming services like Spotify and YouTube Music.
+This repository serves as a collection of free and open-source software (FOSS) alternatives to mainstream music streaming services like Spotify and YouTube Music. These apps prioritize privacy, control, and ad-free listening, often allowing playback from platforms such as YouTube, YouTube Music, Spotify, and Piped.
+
+---
 
 ## Android Applications
 
-- **[ViMusic](https://github.com/vfsfitvnm/ViMusic)** *(inactive)*
-  A Material Design YouTube Music client for Android.
+### YouTube Music Clients
 
-- **[SpMp](https://github.com/toasterofbread/spmp)**  
-  An open-source music player integrating YouTube Music for seamless streaming.
+- **[ViMusic](https://github.com/vfsfitvnm/ViMusic)** *(Inactive)*  
+  A Material You YouTube Music client for Android with offline support and a clean UI.
 
-- **[InnerTune](https://github.com/z-huang/InnerTune)** *(inactive)*
-  A Material Design music player for YouTube Music.
+- **[InnerTune](https://github.com/Z-huang/InnerTune)** *(Discontinued)*  
+  One of the first modern open-source YT Music clients. Still works, but no longer maintained.
 
-- **[OuterTune](https://github.com/OuterTune/OutertuneTune)**  
-  A Material Design music player for YouTube Music. (fork of InnerTune)
-
-- **[RiMusic](https://github.com/fast4x/RiMusic)** *(offline player)*
-  A simple and elegant offline music player for Android.
-
-- **[Harmony-Music](https://github.com/anandnet/Harmony-Music)**  
-  A music player with a sleek interface and support for various services.
+- **[OuterTune](https://github.com/OuterTune/OuterTune)**  
+  A fork of InnerTune with modern UI/UX enhancements and extra features.  
+  - Supports downloads, offline playback, lyrics, and YT Music login  
+  - Android Auto compatible  
+  - Highly polished and active
 
 - **[SimpMusic](https://github.com/maxrave-dev/SimpMusic)**  
-  A simple music player with support for various streaming services.
+  A full-featured YouTube Music client with Spotify-style visuals.  
+  - Ad-free playback, download support  
+  - Musixmatch lyrics, sponsorblock, dislike counts  
+  - Canvas (Spotify-like animations), AI recommendations  
+  - Android Auto supported
+
+- **[Musify](https://github.com/bujalil-dev/Musify)**  
+  Lightweight and fast YouTube Music client using Piped APIs.  
+  - Custom audio player  
+  - Built-in downloader  
+  - No ads, focused on minimalism
+
+- **[SpMp](https://github.com/toasterofbread/spmp)**  
+  Experimental client for YouTube Music with Google Sign-In support.  
+  - Focuses on integrating official APIs
+
+- **[RiMusic](https://github.com/fast4x/RiMusic)** *(Offline player)*  
+  A simple, beautiful offline music player.  
+  - Great for playing downloaded music  
+  - Clean UI, fast and responsive
+
+- **[Harmony-Music](https://github.com/anandnet/Harmony-Music)**  
+  A music player with a sleek UI and support for multiple platforms.
 
 - **[Gramophone](https://github.com/Akanetan/Gramophone)**  
-  A music player with a focus on simplicity and performance.
+  A minimal music player focused on performance and local music playback.
 
 - **[Spotube](https://github.com/KRTirtho/spotube)**  
-  A Flutter-based lightweight Spotify client.
+  A lightweight, Flutter-based Spotify client using YouTube as a backend.  
+  - No ads, no login required  
+  - Works on Android and desktop
+
+---
 
 ## iOS Applications
 
 - **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**  
-  An open-source YouTube Music client for iOS.
+  A YouTube Music client for iOS with a smooth interface and Google login support.
+
+- **[Piped iOS](https://github.com/TeamPiped/Piped-iOS)**  
+  A simple client for Piped that plays YouTube content with privacy in mind.
+
+---
 
 ## Desktop Applications
 
-- **[YTMDesktop](https://github.com/ytmdesktop/ytmdesktop)**  
-  A desktop application for YouTube Music with a sleek interface.
+- **[YTMDesktop](https://github.com/th-ch/youtube-music)**  
+  Electron-based desktop wrapper for YouTube Music.  
+  - Includes adblock  
+  - Custom themes, mini-player, Discord rich presence
+
+- **[FreeTube](https://github.com/FreeTubeApp/FreeTube)**  
+  Privacy-focused YouTube desktop client using Invidious or Piped.  
+  - No ads or tracking  
+  - Full-featured and cross-platform
 
 - **[Spotube](https://github.com/KRTirtho/spotube)**  
-  A Flutter-based lightweight Spotify client.
+  Works on Windows, Linux, and macOS.  
+  - Supports Spotify login  
+  - Uses YouTube playback  
+  - Fast and resource-light
+
+---
 
 ## Web-Based Applications
 
-- **[Freefy](https://freefy.app)** (Not FOSS)  
-  A web-based music player with support for various services.
+- **[Piped](https://piped.video)**  
+  A privacy-respecting alternative frontend for YouTube.  
+  - Can be used as a music player  
+  - Supports instances for better privacy
+
+- **[Freefy](https://freefy.app)** *(Not FOSS)*  
+  Spotify web client with fewer restrictions, usable without premium.
+
+---
 
 ## Additional Information
 
-- **Google Sign-In Support:**  
-  Available in SpMp, YTMDesktop, YTMusicUltimate, InnerTune, SimpMusic.
+- **Google Sign-In Support**:  
+  Available in SpMp, YTMDesktop, YTMusicUltimate, InnerTune, SimpMusic
 
-- **Spotify Login Support:**  
-  Available in Spotube.
+- **Spotify Login Support**:  
+  Available in Spotube, simpmusic
 
-- **Download Locally:**  
-  You can download songs using tools like [yt-dlp](https://github.com/yt-dlp/yt-dlp) or other downloaders and play them with an offline music player of your choice.
+- **Offline Playback**:  
+  ViMusic, OuterTune, SimpMusic, Musify, RiMusic, Spotube (via YouTube downloads)
 
+- **Lyrics Support**:  
+  SimpMusic (Musixmatch), OuterTune (lyrics sync)
+
+- **Android Auto Support**:  
+  SimpMusic, OuterTune
+
+- **Download Support**:  
+  SimpMusic, OuterTune, Musify
+
+- **Other Tools for Downloads**:  
+  Use [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download music and use an offline player like RiMusic or Gramophone.
+
+---
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
