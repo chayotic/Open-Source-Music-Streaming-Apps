@@ -55,7 +55,7 @@ This repository serves as a collection of free and open-source software (FOSS) a
   Experimental client for YouTube Music with Google Sign-In support.  
   - Focuses on integrating official APIs
 
-- **[RiMusic](https://github.com/fast4x/RiMusic)** *(Offline player)*  
+- **[RiMusic](https://github.com/fast4x/RiMusic)** *(discontinued)*  
   A simple, beautiful offline music player.  
   - Great for playing downloaded music  
   - Clean UI, fast and responsive
