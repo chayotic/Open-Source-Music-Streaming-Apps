@@ -7,7 +7,6 @@ A curated and up-to-date list of open-source alternatives to Spotify, YouTube Mu
 ## Table of Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
-  - [YouTube Music Clients](#youtube-music-clients)
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
 - [Web-Based Applications](#web-based-applications)
