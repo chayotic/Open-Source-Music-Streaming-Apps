@@ -115,7 +115,7 @@ This repository serves as a collection of free and open-source software (FOSS) a
 ### Contribute or Suggest an App
 
 Have a suggestion, found a mistake, or built your own open-source music application?  
-Feel free to open an [issue](https://github.com/RohithPai07/Open-Source-Music-Streaming-Apps/issues) or submit a pull request!
+Feel free to open an [issue](https://github.com/chayotic/Open-Source-Music-Streaming-Apps/issues) or submit a pull request!
 
 ---
 
