@@ -36,6 +36,12 @@ This repository serves as a collection of free and open-source software (FOSS) a
   - Download support, offline playback  
   - Lyrics display, Android Auto  
   - Active development and polish
+ 
+- **[Metrolist](https://github.com/mostafaalagamy/Metrolist)**  
+  Blend of OuterTune and Muzza
+   - Supports downloading
+   - Lyrics integration
+   - Android Auto
 
 - **[SimpMusic](https://github.com/maxrave-dev/SimpMusic)**  
   A powerful YouTube Music client with Spotify-style visuals.  
