@@ -75,12 +75,16 @@ This repository serves as a collection of free and open-source software (FOSS) a
 
 - **[Spotube](https://github.com/KRTirtho/spotube)**
   A lightweight, Flutter-based Spotify client using YouTube as a backend. No ads, no login required. Works on Android and desktop
+
 ---
 
 ## iOS Applications
 
 - **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)**  
   YouTube Music client for iOS featuring a smooth interface and Google login.
+
+- **[Spotube](https://github.com/KRTirtho/spotube)**
+  A lightweight, Flutter-based Spotify client using YouTube as a backend. No ads, no login required. Works on Android and desktop
 
 ---
 
@@ -94,8 +98,8 @@ This repository serves as a collection of free and open-source software (FOSS) a
 - **[FreeTube](https://github.com/FreeTubeApp/FreeTube)**  
   Privacy-focused YouTube client using Invidious or Piped.  
 
-- **[Spotube](https://github.com/KRTirtho/spotube)**  
-  Discontinued due to legal notice.
+- **[Spotube](https://github.com/KRTirtho/spotube)**
+  A lightweight, Flutter-based Spotify client using YouTube as a backend. No ads, no login required. Works on Android and desktop
 
 ---
 
