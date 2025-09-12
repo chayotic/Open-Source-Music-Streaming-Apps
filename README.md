@@ -74,11 +74,7 @@ This repository serves as a collection of free and open-source software (FOSS) a
   A UI focused offline music player.
 
 - **[Spotube](https://github.com/KRTirtho/spotube)**
-  A lightweight, Flutter-based Spotify client using YouTube as a backend.
-
-No ads, no login required
-
-Works on Android and desktop
+  A lightweight, Flutter-based Spotify client using YouTube as a backend. No ads, no login required. Works on Android and desktop
 ---
 
 ## iOS Applications
