@@ -73,8 +73,12 @@ This repository serves as a collection of free and open-source software (FOSS) a
 - **[Gramophone](https://github.com/Akanetan/Gramophone)**  
   A UI focused offline music player.
 
-- **[Spotube](https://github.com/KRTirtho/spotube)** *(Discontinued)*  
-  Discontinued due to legal notice.
+- **[Spotube](https://github.com/KRTirtho/spotube)**
+  A lightweight, Flutter-based Spotify client using YouTube as a backend.
+
+No ads, no login required
+
+Works on Android and desktop
 ---
 
 ## iOS Applications
