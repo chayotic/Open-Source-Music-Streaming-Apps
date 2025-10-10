@@ -43,6 +43,12 @@ This repository serves as a collection of free and open-source software (FOSS) a
    - Lyrics integration
    - Android Auto
 
+- **[retune](https://github.com/samvabya/retune)**
+  Want a Fresh and Vibrant UI, try this lightweight, No-Innertune, Flutter-based music app
+  - No ads, No signups, No paywall
+  - No Innertune, so no play-lags
+  - No boring material ui
+  
 - **[SimpMusic](https://github.com/maxrave-dev/SimpMusic)**  
   A powerful YouTube Music client with Spotify-style visuals.  
   - Ad-free playback, offline downloads  
