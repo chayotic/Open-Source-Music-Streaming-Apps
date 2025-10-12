@@ -96,10 +96,7 @@ No ads, no login required. Works on Android and desktop.
 #### [YTMDesktop](https://github.com/th-ch/youtube-music)  
 Electron-based YouTube Music desktop wrapper.  
 - Adblock, mini-player  
-- Custom themes, Discord integration
-
-#### [FreeTube](https://github.com/FreeTubeApp/FreeTube)  
-Privacy-focused YouTube client using Invidious or Piped.  
+- Custom themes, Discord integration 
 
 #### [Spotube](https://github.com/KRTirtho/spotube)  
 A lightweight, Flutter-based Spotify client using YouTube as a backend.  
