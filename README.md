@@ -72,6 +72,12 @@ No ads, no login required. Works on Android and desktop.
 Sautify sources music from YouTube Music and other real-time scraped sources, offering fast performance, a minimal UI, and an adaptive player design.  
 No login required, fully privacy-friendly, and built with a “speed-first” philosophy.
 
+#### [retune](https://github.com/samvabya/retune)  
+Want a Fresh and Vibrant UI, try this lightweight, No-Innertune, Flutter-based music app  
+- No ads, No signups, No paywall  
+- No Innertune, so no play-lags  
+- No boring material ui
+
 ---
 
 ## iOS Applications
