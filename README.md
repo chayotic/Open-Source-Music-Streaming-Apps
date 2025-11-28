@@ -7,8 +7,12 @@ A curated and up-to-date list of open-source alternatives to Spotify, YouTube Mu
 ## Table of Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
+  - Online Streaming Clients
+  - Offline Music Players
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
+  - Online Streaming Clients (Desktop)
+  - Offline Music Players (Desktop)
 - [Web-Based Applications](#web-based-applications)
 - [Additional Information](#additional-information)
 - [License](#license)
@@ -17,119 +21,275 @@ A curated and up-to-date list of open-source alternatives to Spotify, YouTube Mu
 
 ## Introduction
 
-This repository serves as a collection of free and open-source software (FOSS) alternatives to mainstream music streaming services like Spotify and YouTube Music. These apps emphasize privacy, control, and ad-free listening, often leveraging platforms such as YouTube, YouTube Music, Spotify, and Piped for content.
+This repository lists free and open-source (FOSS) music applications that serve as alternatives to mainstream platforms like Spotify and YouTube Music.  
+Some apps rely on online APIs for streaming, while others function solely as offline music players.
 
 ---
 
-## Android Applications
+# Android Applications
 
-### YouTube Music Clients
+## Online Streaming Clients
 
-#### [OuterTune](https://github.com/OuterTune/OuterTune)  
-A fork of InnerTune with modern UI/UX enhancements and additional features.  
-- Download support, offline playback  
-- Lyrics display, Android Auto  
-- Active development and polish
+<details>
+<summary><a href="https://github.com/OuterTune/OuterTune">OuterTune</a></summary>
 
-#### [Metrolist](https://github.com/mostafaalagamy/Metrolist)  
-Blend of OuterTune and Muzza.  
-- Supports downloading  
-- Lyrics integration  
-- Android Auto
+A refined fork of InnerTune with improved UI, performance, and usability.
 
-#### [SimpMusic](https://github.com/maxrave-dev/SimpMusic)  
-A powerful YouTube Music client with Spotify-style visuals.  
-- Ad-free playback, offline downloads  
-- Musixmatch lyrics, sponsorblock, canvas animations  
-- AI-based recommendations, Android Auto
+**Features**
+- Offline playback and downloading
+- Lyrics support
+- Android Auto integration
 
-#### [Musify](https://github.com/gokadzev/Musify)  
-Lightweight YouTube Music client using Piped APIs.  
-- Custom audio player and built-in downloader  
-- No ads, minimal design
+</details>
 
-#### [Kreate](https://github.com/knighthat/Kreate)  
-Fork of RiMusic.  
-- Built in downloader  
-- Offline music support
+<details>
+<summary><a href="https://github.com/mostafaalagamy/Metrolist">Metrolist</a></summary>
 
-#### [N-Zik](https://github.com/NEVARLeVrai/N-Zik)  
-Fork of RiMusic.  
-- Offline support  
-- Improved UI/UX
+A combination of OuterTune and Muzza, offering an organized and smooth YouTube Music experience.
 
-#### [Harmony-Music](https://github.com/anandnet/Harmony-Music)  
-A sleek music player supporting multiple platforms and audio sources.
+**Features**
+- Music downloading
+- Lyrics integration
+- Android Auto support
 
-#### [Gramophone](https://github.com/Akanetan/Gramophone)  
-A UI focused offline music player.
+</details>
 
-#### [Spotube](https://github.com/KRTirtho/spotube)  
-A lightweight, Flutter-based Spotify client using YouTube as a backend.  
-No ads, no login required. Works on Android and desktop.
+<details>
+<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
 
-#### [Sautify](https://github.com/wambugu71/Sautify)   
-Sautify sources music from YouTube Music and other real-time scraped sources, offering fast performance, a minimal UI, and an adaptive player design.  
-No login required, fully privacy-friendly, and built with a “speed-first” philosophy.
+A powerful and feature-rich YouTube Music client.
 
-#### [retune](https://github.com/samvabya/retune)  
-Want a Fresh and Vibrant UI, try this lightweight, No-Innertune, Flutter-based music app  
-- No ads, No signups, No paywall  
-- No Innertune, so no play-lags  
-- No boring material ui
+**Features**
+- Ad-free playback
+- Offline downloads
+- Musixmatch lyrics
+- SponsorBlock
+- Canvas animations
+- AI-based recommendations
+
+</details>
+
+<details>
+<summary><a href="https://github.com/gokadzev/Musify">Musify</a></summary>
+
+Lightweight YouTube Music client using Piped APIs.
+
+**Features**
+- Built-in downloader
+- No ads
+- Minimalistic interface
+
+</details>
+
+<details>
+<summary><a href="https://github.com/knighthat/Kreate">Kreate</a></summary>
+
+A fork of RiMusic with UI and performance enhancements.
+
+**Features**
+- Integrated downloader
+- Offline playback support
+
+</details>
+
+<details>
+<summary><a href="https://github.com/NEVARLeVrai/N-Zik">N-Zik</a></summary>
+
+A polished fork of RiMusic.
+
+**Features**
+- Offline playback
+- Enhanced UI/UX
+
+</details>
+
+<details>
+<summary><a href="https://github.com/anandnet/Harmony-Music">Harmony-Music</a></summary>
+
+A multi-source music player offering a clean and simple interface.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
+
+A lightweight Spotify client that uses YouTube as its backend.
+
+**Features**
+- No login required
+- No ads
+- Works on Android and desktop
+
+</details>
+
+<details>
+<summary><a href="https://github.com/wambugu71/Sautify">Sautify</a></summary>
+
+Fast and privacy-oriented YouTube Music scraper-based client.
+
+**Features**
+- Lightweight UI
+- No login required
+
+</details>
+
+<details>
+<summary><a href="https://github.com/samvabya/retune">retune</a></summary>
+
+Modern Flutter-based YouTube Music player.
+
+**Features**
+- No ads
+- No accounts required
+
+</details>
+
+<details>
+<summary><a href="https://github.com/25huizengek1/ViTune">ViTune</a></summary>
+
+A minimal and efficient YouTube Music frontend.
+
+**Features**
+- No Google login required
+- Lightweight performance
+
+</details>
+
+<details>
+<summary><a href="https://github.com/HemantKArya/BloomeeTunes">BloomeeTunes</a></summary>
+
+A polished YouTube Music client based on YTMusic API.
+
+**Features**
+- Clean interface
+- Smooth performance
+
+</details>
+
+<details>
+<summary><a href="https://github.com/DanielSevillano/music-you">Music-You</a></summary>
+
+Material You–styled YouTube Music frontend.
+
+**Features**
+- Fast loading
+- Simple, modern interface
+
+</details>
 
 ---
 
-## iOS Applications
+## Offline Music Players
 
-#### [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)  
-YouTube Music client for iOS featuring a smooth interface and Google login.
+<details>
+<summary><a href="https://github.com/Akanetan/Gramophone">Gramophone</a></summary>
 
-#### [Spotube](https://github.com/KRTirtho/spotube)  
-A lightweight, Flutter-based Spotify client using YouTube as a backend.  
-No ads, no login required. Works on Android and desktop.
+A simple and visually appealing offline music player.
 
----
+</details>
 
-## Desktop Applications
+<details>
+<summary><a href="https://github.com/theovilardo/PixelPlay">PixelPlay</a></summary>
 
-#### [YTMDesktop](https://github.com/th-ch/youtube-music)  
-Electron-based YouTube Music desktop wrapper.  
-- Adblock, mini-player  
-- Custom themes, Discord integration 
+A Material Expressive Design local music player.
 
-#### [Spotube](https://github.com/KRTirtho/spotube)  
-A lightweight, Flutter-based Spotify client using YouTube as a backend.  
-No ads, no login required. Works on Android and desktop.
+</details>
 
 ---
 
-## Web-Based Applications
+# iOS Applications
 
-#### [Piped](https://piped.video)  
-A privacy-respecting frontend for YouTube.  
-- Usable as a music player  
-- Decentralized instance support
+<details>
+<summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
 
-#### [Freefy](https://freefy.app) *(Not FOSS)*  
-A Spotify web client with fewer restrictions.  
-- No premium required  
-- Not open source
+A YouTube Music client for iOS distributed as a jailbreak package (.deb).  
+Supports both rootful and rootless devices. Sideloading requires building your own IPA using the project’s GitHub Actions workflow (a decrypted YTMusic IPA is needed).
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
+
+A Spotify–YouTube hybrid client.  
+No login and no ads.
+
+</details>
+
+---
+
+# Desktop Applications
+
+## Online Streaming Clients (Desktop)
+
+<details>
+<summary><a href="https://github.com/th-ch/youtube-music">YTMDesktop</a></summary>
+
+Electron-based desktop wrapper for YouTube Music.
+
+**Features**
+- Adblock
+- Mini-player
+- Theme support
+- Discord presence
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
+
+Cross-platform desktop version of Spotube.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/staniel359/muffon">muffon</a></summary>
+
+Multi-source music client that aggregates YouTube, SoundCloud, Deezer, and Spotify metadata.
+
+</details>
+
+---
+
+## Offline Music Players (Desktop)
+
+<details>
+<summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
+
+A clean, cross-platform offline music player.
+
+</details>
+
+---
+
+# Web-Based Applications
+
+<details>
+<summary><a href="https://piped.video">Piped</a></summary>
+
+A privacy-focused frontend for YouTube.  
+Can be used as a lightweight streaming option.
+
+</details>
+
+<details>
+<summary><a href="https://freefy.app/">Freefy</a></summary>
+
+A Spotify web client alternative.  
+Not open-source.
+
+</details>
 
 ---
 
 ## Additional Information
 
-- **Other Tools for Downloading Music:**  
-  Consider using [yt-dlp](https://github.com/yt-dlp/yt-dlp) for downloading audio.
+For downloading audio, consider using:  
+**yt-dlp** — https://github.com/yt-dlp/yt-dlp
 
-### Contribute or Suggest an App
-
-Have a suggestion, found a mistake, or built your own open-source music application?  
-Feel free to open an [issue](https://github.com/chayotic/Open-Source-Music-Streaming-Apps/issues) or submit a pull request!
+Contributions are welcome through issues and pull requests.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
