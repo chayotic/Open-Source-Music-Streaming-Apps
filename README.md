@@ -22,7 +22,7 @@ A curated and up-to-date list of open-source alternatives to Spotify, YouTube Mu
 ## Introduction
 
 This repository lists free and open-source (FOSS) music applications that serve as alternatives to mainstream platforms like Spotify and YouTube Music.  
-Some apps rely on online APIs for streaming, while others function solely as offline music players.
+Some apps rely on online APIs or plugins for streaming, while others function solely as offline music players.
 
 ---
 
@@ -43,7 +43,7 @@ Online music player for Android.
 A polished YouTube Music client based on YTMusic API.
 
 **Features**
-- Clean interface
+- Clean interface  
 - Smooth performance
 
 </details>
@@ -52,6 +52,18 @@ A polished YouTube Music client based on YTMusic API.
 <summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
 
 Online music player for Android.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/brahmkshatriya/echo">Echo</a></summary>
+
+A plugin-based Android music player that supports multiple online sources via extensions.
+
+**Features**
+- Modular plugin system  
+- Multi-source streaming  
+- Flexible architecture
 
 </details>
 
@@ -68,7 +80,7 @@ A multi-source music player offering a clean and simple interface.
 A fork of RiMusic with UI and performance enhancements.
 
 **Features**
-- Integrated downloader
+- Integrated downloader  
 - Offline playback support
 
 </details>
@@ -79,8 +91,8 @@ A fork of RiMusic with UI and performance enhancements.
 A combination of OuterTune and Muzza, offering an organized and smooth YouTube Music experience.
 
 **Features**
-- Music downloading
-- Lyrics integration
+- Music downloading  
+- Lyrics integration  
 - Android Auto support
 
 </details>
@@ -91,7 +103,7 @@ A combination of OuterTune and Muzza, offering an organized and smooth YouTube M
 Material You–styled YouTube Music frontend.
 
 **Features**
-- Fast loading
+- Fast loading  
 - Simple, modern interface
 
 </details>
@@ -102,9 +114,21 @@ Material You–styled YouTube Music frontend.
 Lightweight YouTube Music client using Piped APIs.
 
 **Features**
-- Built-in downloader
-- No ads
+- Built-in downloader  
+- No ads  
 - Minimalistic interface
+
+</details>
+
+<details>
+<summary><a href="https://github.com/namidaco/namida">Namida</a></summary>
+
+A powerful Android music player supporting online streaming with advanced library and queue management.
+
+**Features**
+- Online streaming support  
+- Rich metadata handling  
+- Modern UI
 
 </details>
 
@@ -114,7 +138,7 @@ Lightweight YouTube Music client using Piped APIs.
 A polished fork of RiMusic.
 
 **Features**
-- Offline playback
+- Offline playback  
 - Enhanced UI/UX
 
 </details>
@@ -125,8 +149,8 @@ A polished fork of RiMusic.
 A refined fork of InnerTune with improved UI, performance, and usability.
 
 **Features**
-- Offline playback and downloading
-- Lyrics support
+- Offline playback and downloading  
+- Lyrics support  
 - Android Auto integration
 
 </details>
@@ -137,7 +161,7 @@ A refined fork of InnerTune with improved UI, performance, and usability.
 Modern Flutter-based YouTube Music player.
 
 **Features**
-- No ads
+- No ads  
 - No accounts required
 
 </details>
@@ -155,7 +179,7 @@ Online music player for Android.
 Fast and privacy-oriented YouTube Music scraper-based client.
 
 **Features**
-- Lightweight UI
+- Lightweight UI  
 - No login required
 
 </details>
@@ -166,11 +190,11 @@ Fast and privacy-oriented YouTube Music scraper-based client.
 A powerful and feature-rich YouTube Music client.
 
 **Features**
-- Ad-free playback
-- Offline downloads
-- Musixmatch lyrics
-- SponsorBlock
-- Canvas animations
+- Ad-free playback  
+- Offline downloads  
+- Musixmatch lyrics  
+- SponsorBlock  
+- Canvas animations  
 - AI-based recommendations
 
 </details>
@@ -181,8 +205,8 @@ A powerful and feature-rich YouTube Music client.
 A lightweight Spotify client that uses YouTube as its backend.
 
 **Features**
-- No login required
-- No ads
+- No login required  
+- No ads  
 - Works on Android and desktop
 
 </details>
@@ -193,7 +217,7 @@ A lightweight Spotify client that uses YouTube as its backend.
 A minimal and efficient YouTube Music frontend.
 
 **Features**
-- No Google login required
+- No Google login required  
 - Lightweight performance
 
 </details>
@@ -260,7 +284,7 @@ No login and no ads.
 <summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
 
 A YouTube Music client for iOS distributed as a jailbreak package (.deb).  
-Supports both rootful and rootless devices. Sideloading requires building your own IPA using the project’s GitHub Actions workflow (a decrypted YTMusic IPA is needed).
+Supports both rootful and rootless devices. Sideloading requires building your own IPA using GitHub Actions.
 
 </details>
 
@@ -297,14 +321,12 @@ Cross-platform desktop version of Spotube.
 Electron-based desktop wrapper for YouTube Music.
 
 **Features**
-- Adblock
-- Mini-player
-- Theme support
+- Adblock  
+- Mini-player  
+- Theme support  
 - Discord presence
 
 </details>
-
----
 
 ## Offline Music Players (Desktop)
 
@@ -337,8 +359,7 @@ Not open-source.
 <details>
 <summary><a href="https://piped.video">Piped</a></summary>
 
-A privacy-focused frontend for YouTube.  
-Can be used as a lightweight streaming option.
+A privacy-focused frontend for YouTube.
 
 </details>
 
