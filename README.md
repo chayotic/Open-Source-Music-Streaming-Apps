@@ -118,11 +118,6 @@ Lightweight YouTube Music client using Piped APIs.
 
 A powerful Android music player supporting online streaming with advanced library and queue management.
 
-**Features**
-- Online streaming support  
-- Rich metadata handling  
-- Modern UI
-
 </details>
 
 <details>
@@ -130,21 +125,12 @@ A powerful Android music player supporting online streaming with advanced librar
 
 A polished fork of RiMusic.
 
-**Features**
-- Offline playback  
-- Enhanced UI/UX
-
 </details>
 
 <details>
 <summary><a href="https://github.com/OuterTune/OuterTune">OuterTune</a></summary>
 
-A refined fork of InnerTune with improved UI, performance, and usability.
-
-**Features**
-- Offline playback and downloading  
-- Lyrics support  
-- Android Auto integration
+A refined fork of InnerTune.
 
 </details>
 
@@ -152,10 +138,6 @@ A refined fork of InnerTune with improved UI, performance, and usability.
 <summary><a href="https://github.com/samvabya/retune">retune</a></summary>
 
 Modern Flutter-based YouTube Music player.
-
-**Features**
-- No ads  
-- No accounts required
 
 </details>
 
@@ -171,47 +153,26 @@ Online music player for Android.
 
 Fast and privacy-oriented YouTube Music scraper-based client.
 
-**Features**
-- Lightweight UI  
-- No login required
-
 </details>
 
 <details>
 <summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
 
-A powerful and feature-rich YouTube Music client.
-
-**Features**
-- Ad-free playback  
-- Offline downloads  
-- Musixmatch lyrics  
-- SponsorBlock  
-- Canvas animations  
-- AI-based recommendations
+Feature-rich YouTube Music client.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
 
-A lightweight Spotify client that uses YouTube as its backend.
-
-**Features**
-- No login required  
-- No ads  
-- Works on Android and desktop
+Spotify client using YouTube as backend.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/25huizengek1/ViTune">ViTune</a></summary>
 
-A minimal and efficient YouTube Music frontend.
-
-**Features**
-- No Google login required  
-- Lightweight performance
+Minimal YouTube Music frontend.
 
 </details>
 
@@ -236,40 +197,126 @@ Offline music player for Android.
 <details>
 <summary><a href="https://github.com/Akanetan/Gramophone">Gramophone</a></summary>
 
-A simple and visually appealing offline music player.
+Offline music player.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
 
-Offline (local) music player for Android with a clean UI and Material design.
+Offline (local) music player for Android.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/chr56/Phonograph_Plus">Phonograph Plus</a></summary>
 
-Offline music player for Android.
+Offline music player.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/theovilardo/PixelPlay">PixelPlay</a></summary>
 
-A Material Expressive Design local music player.
+Material-based local music player.
 
 </details>
 
 <details>
 <summary><a href="https://github.com/RetroMusicPlayer/RetroMusicPlayer">Retro Music Player</a></summary>
 
-Offline music player for Android.
+Offline music player.
 
 </details>
 
 ---
 
+# iOS Applications
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
+
+Spotify–YouTube hybrid client.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
+
+YouTube Music client for jailbroken iOS devices.
+
+</details>
+
+---
+
+# Desktop Applications
+
+## Online Streaming Clients (Desktop)
+
+<details>
+<summary><a href="https://github.com/staniel359/muffon">muffon</a></summary>
+
+Multi-source streaming client.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
+
+Desktop YouTube Music client.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
+
+Cross-platform Spotube client.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/th-ch/youtube-music">YTMDesktop</a></summary>
+
+Electron-based YouTube Music desktop app.
+
+</details>
+
+## Offline Music Players (Desktop)
+
+<details>
+<summary><a href="https://github.com/harmonoid/harmonoid">Harmonoid</a></summary>
+
+Cross-platform offline music player.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
+
+Minimal offline music player.
+
+</details>
+
+---
+
+# Web-Based Applications
+
+<details>
+<summary><a href="https://piped.video">Piped</a></summary>
+
+Privacy-focused YouTube frontend.
+
+</details>
+
+---
+
+## Additional Information
+
+For downloading audio:
+- **yt-dlp** — https://github.com/yt-dlp/yt-dlp
+
+---
+
 ## License
 
-This project is licensed under the MIT License.
+MIT License
