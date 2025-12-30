@@ -49,13 +49,6 @@ A polished YouTube Music client based on YTMusic API.
 </details>
 
 <details>
-<summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
-
-Online music player for Android.
-
-</details>
-
-<details>
 <summary><a href="https://github.com/brahmkshatriya/echo">Echo</a></summary>
 
 A plugin-based Android music player that supports multiple online sources via extensions.
@@ -248,6 +241,13 @@ A simple and visually appealing offline music player.
 </details>
 
 <details>
+<summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
+
+Offline (local) music player for Android with a clean UI and Material design.
+
+</details>
+
+<details>
 <summary><a href="https://github.com/chr56/Phonograph_Plus">Phonograph Plus</a></summary>
 
 Offline music player for Android.
@@ -267,110 +267,6 @@ A Material Expressive Design local music player.
 Offline music player for Android.
 
 </details>
-
----
-
-# iOS Applications
-
-<details>
-<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
-
-A Spotify–YouTube hybrid client.  
-No login and no ads.
-
-</details>
-
-<details>
-<summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
-
-A YouTube Music client for iOS distributed as a jailbreak package (.deb).  
-Supports both rootful and rootless devices. Sideloading requires building your own IPA using GitHub Actions.
-
-</details>
-
----
-
-# Desktop Applications
-
-## Online Streaming Clients (Desktop)
-
-<details>
-<summary><a href="https://github.com/staniel359/muffon">muffon</a></summary>
-
-Multi-source music client that aggregates YouTube, SoundCloud, Deezer, and Spotify metadata.
-
-</details>
-
-<details>
-<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
-
-Desktop version of the SimpMusic YouTube Music client.
-
-</details>
-
-<details>
-<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
-
-Cross-platform desktop version of Spotube.
-
-</details>
-
-<details>
-<summary><a href="https://github.com/th-ch/youtube-music">YTMDesktop</a></summary>
-
-Electron-based desktop wrapper for YouTube Music.
-
-**Features**
-- Adblock  
-- Mini-player  
-- Theme support  
-- Discord presence
-
-</details>
-
-## Offline Music Players (Desktop)
-
-<details>
-<summary><a href="https://github.com/harmonoid/harmonoid">Harmonoid</a></summary>
-
-A cross-platform offline music player with library management.
-
-</details>
-
-<details>
-<summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
-
-A clean, cross-platform offline music player.
-
-</details>
-
----
-
-# Web-Based Applications
-
-<details>
-<summary><a href="https://freefy.app/">Freefy</a></summary>
-
-A Spotify web client alternative.  
-Not open-source.
-
-</details>
-
-<details>
-<summary><a href="https://piped.video">Piped</a></summary>
-
-A privacy-focused frontend for YouTube.
-
-</details>
-
----
-
-## Additional Information
-
-For downloading audio, consider using:  
-**yt-dlp** — https://github.com/yt-dlp/yt-dlp
-
-Contributions are welcome through issues and pull requests.
 
 ---
 
