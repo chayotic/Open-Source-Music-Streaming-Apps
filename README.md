@@ -48,11 +48,6 @@ Plugin-based Android music player supporting multiple online sources via extensi
 </details>
 
 <details>
-<summary><a href="https://github.com/iad1tya/Echo-Music">Echo-Music</a></summary>
-Online Android music streaming client.
-</details>
-
-<details>
 <summary><a href="https://github.com/sheikhhaziq/gyawun_music">Gyawun Music</a></summary>
 Online Android music streaming client with a clean and intuitive interface.
 </details>
