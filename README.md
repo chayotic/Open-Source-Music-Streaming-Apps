@@ -246,6 +246,11 @@ Native macOS music player with high-fidelity audio support.
 Privacy-focused YouTube frontend.
 </details>
 
+<details>
+<summary><a href="https://github.com/monochrome-music/monochrome">Monochrome</a></summary>
+Tidal-based streaming PWA with a different catalogue from Spotify/YouTube Music. Also available as a simple web interface at <a href="https://tidal.squid.wtf/">tidal.squid.wtf</a>.
+</details>
+
 ---
 
 ## Additional Information
