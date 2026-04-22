@@ -207,6 +207,11 @@ Multi-source streaming client.
 </details>
 
 <details>
+<summary><a href="https://github.com/nukeop/nuclear">Nuclear</a></summary>
+Tauri-based streaming client.
+</details>
+
+<details>
 <summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
 Desktop YouTube Music client.
 </details>
