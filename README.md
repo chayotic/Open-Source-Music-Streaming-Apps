@@ -38,11 +38,6 @@ Online Android music streaming client based on YouTube Music.
 </details>
 
 <details>
-<summary><a href="https://github.com/cybruGhost/Cubic-Music">Cubic-Music</a></summary>
-Online Android music streaming client with a modern interface.
-</details>
-
-<details>
 <summary><a href="https://github.com/brahmkshatriya/echo">Echo</a></summary>
 Plugin-based Android music player supporting multiple online sources via extensions.
 </details>
