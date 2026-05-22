@@ -1,19 +1,23 @@
 # Open Source Music Streaming Apps
-A curated and up-to-date list of open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
-![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps?style=social)
+A curated and up-to-date list of free and open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
+
+![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps) 
+
+![License: MIT](https://img.shields.io/badge/license-MIT-1a73e8?style=flat-square&labelColor=174ea6)
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
-- [Online Streaming Clients](#android-applications)
-- [Offline Music Players](#offline-music-players)
+  - [Online Streaming Clients](#online-streaming-clients)
+  - [Offline Music Players](#offline-music-players)
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
-- [Online Streaming Clients (Desktop)](#online-streaming-clients-desktop)
-- [Offline Music Players (Desktop)](#offline-music-players-desktop)
-- [macOS Applications](#macos-applications)
-- [Web-Based Applications](#web-based-applications)
-- [Additional Information](#additional-information)
+  - [Windows](#windows)
+    - [Online Streaming Clients (Windows)](#online-streaming-clients-windows)
+    - [Offline Music Players (Windows)](#offline-music-players-windows)
+  - [macOS](#macos)
+    - [Offline Music Players (macOS)](#offline-music-players-macos)
+- [Web Applications](#web-applications)
 - [License](#license)
 
 ---
@@ -27,240 +31,94 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Online Streaming Clients
 
-<details>
-<summary><a href="https://github.com/koiverse/ArchiveTune">ArchiveTune</a></summary>
-Online music player for Android.
-</details>
-
-<details>
-<summary><a href="https://github.com/HemantKArya/BloomeeTunes">BloomeeTunes</a></summary>
-Online Android music streaming client based on YouTube Music.
-</details>
-
-<details>
-<summary><a href="https://github.com/brahmkshatriya/echo">Echo</a></summary>
-Plugin-based Android music player supporting multiple online sources via extensions.
-</details>
-
-<details>
-<summary><a href="https://github.com/iad1tya/Echo-Music">Echo-Music</a></summary>
-Online Android music streaming client.
-</details>
-
-<details>
-<summary><a href="https://github.com/sheikhhaziq/gyawun_music">Gyawun Music</a></summary>
-Online Android music streaming client with a clean and intuitive interface.
-</details>
-
-<details>
-<summary><a href="https://github.com/knighthat/Kreate">Kreate</a></summary>
-Fork of RiMusic with UI and performance enhancements.
-</details>
-
-<details>
-<summary><a href="https://github.com/mostafaalagamy/Metrolist">Metrolist</a></summary>
-YouTube Music client combining features from OuterTune and Muzza.
-</details>
-
-<details>
-<summary><a href="https://github.com/DanielSevillano/music-you">Music-You</a></summary>
-Material You–styled YouTube Music frontend.
-</details>
-
-<details>
-<summary><a href="https://github.com/gokadzev/Musify">Musify</a></summary>
-Lightweight YouTube Music client using Piped APIs.
-</details>
-
-<details>
-<summary><a href="https://github.com/Maloy-Android/Muzza">Muzza</a></summary>
-Online Android music streaming client focused on YouTube Music.
-</details>
-
-<details>
-<summary><a href="https://github.com/namidaco/namida">Namida</a></summary>
-Advanced Android music player with online streaming support.
-</details>
-
-<details>
-<summary><a href="https://github.com/NEVARLeVrai/N-Zik">N-Zik</a></summary>
-Polished fork of RiMusic.
-</details>
-
-<details>
-<summary><a href="https://github.com/OuterTune/OuterTune">OuterTune</a></summary>
-Refined fork of InnerTune.
-</details>
-
-<details>
-<summary><a href="https://github.com/fast4x/RiPlay">RiPlay</a></summary>
-Online music player for Android.
-</details>
-
-<details>
-<summary><a href="https://github.com/samvabya/retune">retune</a></summary>
-Modern Flutter-based YouTube Music player.
-</details>
-
-<details>
-<summary><a href="https://github.com/wambugu71/Sautify">Sautify</a></summary>
-Privacy-oriented YouTube Music client.
-</details>
-
-<details>
-<summary><a href="https://github.com/samyak2403/Simple-Tube">Simple-Tube</a></summary>
-Online Android music streaming client.
-</details>
-
-<details>
-<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
-Feature-rich YouTube Music client.
-</details>
-
-<details>
-<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
-Spotify client using YouTube as backend.
-</details>
-
-<details>
-<summary><a href="https://github.com/25huizengek1/ViTune">ViTune</a></summary>
-Minimal YouTube Music frontend.
-</details>
-
-<details>
-<summary><a href="https://github.com/vivizzz007/vivi-music">VIVI Music</a></summary>
-Online Android music streaming client.
-</details>
+- [ArchiveTune](https://github.com/koiverse/ArchiveTune)
+- [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
+- [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
+- [Echo](https://github.com/brahmkshatriya/echo)
+- [Echo-Music](https://github.com/iad1tya/Echo-Music)
+- [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
+- [Kreate](https://github.com/knighthat/Kreate)
+- [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
+- [Meld](https://github.com/FrancescoGrazioso/Meld)
+- [Metrolist](https://github.com/mostafaalagamy/Metrolist)
+- [Muzo](https://github.com/Shashwat-CODING/Muzo)
+- [Music-You](https://github.com/DanielSevillano/music-you)
+- [Musify](https://github.com/gokadzev/Musify)
+- [Muzza](https://github.com/Maloy-Android/Muzza)
+- [Namida](https://github.com/namidaco/namida)
+- [N-Zik](https://github.com/NEVARLeVrai/N-Zik)
+- [OuterTune](https://github.com/OuterTune/OuterTune)
+- [retune](https://github.com/samvabya/retune)
+- [RiPlay](https://github.com/fast4x/RiPlay)
+- [Sautify](https://github.com/wambugu71/Sautify)
+- [Simple-Tube](https://github.com/samyak2403/Simple-Tube)
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+- [SoundPod](https://github.com/arunnechully/SoundPod)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [Velune](https://github.com/nikhilvishwakarma00/Velune)
+- [ViTune](https://github.com/25huizengek1/ViTune)
+- [VIVI Music](https://github.com/vivizzz007/vivi-music)
 
 ---
 
 ## Offline Music Players
 
-<details>
-<summary><a href="https://github.com/iZakirSheikh/Audiofy">Audiofy</a></summary>
-Offline music player for Android.
-</details>
-
-<details>
-<summary><a href="https://github.com/OxygenCobalt/Auxio">Auxio</a></summary>
-Offline music player for Android.
-</details>
-
-<details>
-<summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
-Offline (local) music player for Android.
-</details>
-
-<details>
-<summary><a href="https://github.com/sosauce/CuteMusic">CuteMusic</a></summary>
-Offline music player with a charming and user-friendly interface.
-</details>
-
-<details>
-<summary><a href="https://github.com/Akanetan/Gramophone">Gramophone</a></summary>
-Offline music player.
-</details>
-
-<details>
-<summary><a href="https://github.com/chr56/Phonograph_Plus">Phonograph Plus</a></summary>
-Offline music player.
-</details>
-
-<details>
-<summary><a href="https://github.com/theovilardo/PixelPlay">Pixel Player</a></summary>
-Material-3-Expressive based local music player.
-</details>
-
-<details>
-<summary><a href="https://github.com/RetroMusicPlayer/RetroMusicPlayer">Retro Music Player</a></summary>
-Offline music player.
-</details>
+- [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+- [Auxio](https://github.com/OxygenCobalt/Auxio)
+- [BoomingMusic](https://github.com/mardous/BoomingMusic)
+- [CuteMusic](https://github.com/sosauce/CuteMusic)
+- [Gramophone](https://github.com/Akanetan/Gramophone)
+- [Music](https://github.com/MissingCore/Music)
+- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
+- [Pixel Player](https://github.com/theovilardo/PixelPlay)
+- [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
 ---
 
 # iOS Applications
 
-<details>
-<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
-Spotify–YouTube hybrid client.
-</details>
-
-<details>
-<summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
-YouTube Music client for jailbroken iOS devices.
-</details>
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)
 
 ---
 
 # Desktop Applications
 
-## Online Streaming Clients (Desktop)
+### Windows
 
-<details>
-<summary><a href="https://github.com/staniel359/muffon">muffon</a></summary>
-Multi-source streaming client.
-</details>
+#### Online Streaming Clients (Windows)
 
-<details>
-<summary><a href="https://github.com/nukeop/nuclear">Nuclear</a></summary>
-Tauri-based streaming client.
-</details>
+- [muffon](https://github.com/staniel359/muffon)
+- [Nuclear](https://github.com/nukeop/nuclear)
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMDesktop](https://github.com/th-ch/youtube-music)
 
-<details>
-<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
-Desktop YouTube Music client.
-</details>
+#### Offline Music Players (Windows)
 
-<details>
-<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
-Cross-platform Spotube client.
-</details>
-
-<details>
-<summary><a href="https://github.com/th-ch/youtube-music">YTMDesktop</a></summary>
-Electron-based YouTube Music desktop app.
-</details>
-
-## Offline Music Players (Desktop)
-
-<details>
-<summary><a href="https://github.com/harmonoid/harmonoid">Harmonoid</a></summary>
-Cross-platform offline music player.
-</details>
-
-<details>
-<summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
-Minimal offline music player.
-</details>
+- [Harmonoid](https://github.com/harmonoid/harmonoid)
+- [Nora](https://github.com/Sandakan/Nora)
 
 ---
 
-# macOS Applications
+### macOS
 
-<details>
-<summary><a href="https://github.com/rvarunrathod/HiFidelity">HiFidelity</a></summary>
-Native macOS music player with high-fidelity audio support.
-</details>
+#### Offline Music Players (macOS)
 
----
-
-# Web-Based Applications
-
-<details>
-<summary><a href="https://piped.video">Piped</a></summary>
-Privacy-focused YouTube frontend.
-</details>
-
-<details>
-<summary><a href="https://github.com/monochrome-music/monochrome">Monochrome</a></summary>
-Tidal-based streaming PWA with a different catalogue from Spotify/YouTube Music. Also available as a simple web interface at <a href="https://tidal.squid.wtf/">tidal.squid.wtf</a>.
-</details>
+- [HiFidelity](https://github.com/rvarunrathod/HiFidelity)
 
 ---
 
-## Additional Information
+# Web Applications
+
+- [Monochrome](https://github.com/monochrome-music/monochrome)
+- [Piped](https://piped.video)
+
+---
+
+## Resources
 For downloading audio:
-- **yt-dlp** — https://github.com/yt-dlp/yt-dlp
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ---
 
