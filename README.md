@@ -34,6 +34,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
+- [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Echo](https://github.com/brahmkshatriya/echo)
 - [Echo-Music](https://github.com/iad1tya/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
