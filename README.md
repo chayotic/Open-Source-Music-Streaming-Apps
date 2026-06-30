@@ -38,7 +38,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Echo](https://github.com/brahmkshatriya/echo)
 - [Echo-Music](https://github.com/iad1tya/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
-- [Harmber](https://github.com/suadatbiniqbal/harmber)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
