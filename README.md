@@ -68,6 +68,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [BoomingMusic](https://github.com/mardous/BoomingMusic)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
+- [Elovaire](https://github.com/droidbeauty/elovaire-music)
 - [Gramophone](https://github.com/Akanetan/Gramophone)
 - [Music](https://github.com/MissingCore/Music)
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
