@@ -38,6 +38,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Echo](https://github.com/brahmkshatriya/echo)
 - [Echo-Music](https://github.com/iad1tya/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
+- [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
@@ -74,6 +75,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [Pixel Player](https://github.com/theovilardo/PixelPlay)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+- [Rhythm](https://github.com/cromaguy/Rhythm)
 
 ---
 
