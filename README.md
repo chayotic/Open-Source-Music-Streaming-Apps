@@ -43,7 +43,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
-- [Music-You](https://github.com/DanielSevillano/music-you)
+- [Music-You](https://github.com/Shreyas850/Music-You)
 - [Musify](https://github.com/gokadzev/Musify)
 - [Muzo](https://github.com/Shashwat-CODING/Muzo)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
