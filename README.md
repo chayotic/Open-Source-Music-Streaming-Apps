@@ -31,6 +31,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Online Streaming Clients
 
+- [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
@@ -57,6 +58,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
 - [Spotube](https://github.com/KRTirtho/spotube)
+- [Spotui](https://github.com/Spotui/Spotui)
 - [Velune](https://github.com/nikhilvishwakarma00/Velune)
 - [ViTune](https://github.com/25huizengek1/ViTune)
 - [VIVI Music](https://github.com/vivizzz007/vivi-music)
@@ -71,6 +73,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Elovaire](https://github.com/droidbeauty/elovaire-music)
 - [Gramophone](https://github.com/Akanetan/Gramophone)
+- [Lotus](https://github.com/dn0ne/lotus)
+- [Lune](https://github.com/MrDemonc/Lune)
 - [Music](https://github.com/MissingCore/Music)
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [Pixel Player](https://github.com/theovilardo/PixelPlay)
