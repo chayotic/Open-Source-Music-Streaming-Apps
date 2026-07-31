@@ -59,6 +59,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [SoundPod](https://github.com/arunnechully/SoundPod)
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [Spotui](https://github.com/Spotui/Spotui)
+- [Stash](https://github.com/rawnaldclark/Stash)
 - [Velune](https://github.com/nikhilvishwakarma00/Velune)
 - [ViTune](https://github.com/25huizengek1/ViTune)
 - [VIVI Music](https://github.com/vivizzz007/vivi-music)
@@ -80,6 +81,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Pixel Player](https://github.com/theovilardo/PixelPlay)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
+- [Stash](https://github.com/rawnaldclark/Stash)
 
 ---
 
@@ -119,8 +121,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 # Web Applications
 
-- [Monochrome](https://github.com/monochrome-music/monochrome)
-- [Piped](https://piped.video)
+- [Monochrome](https:monochrome.tf/)
+- [Octave](https://music.octavestreaming.com/)
+- [Piped](https://piped.video/)
 
 ---
 
