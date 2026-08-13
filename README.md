@@ -36,8 +36,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
-- [Echo](https://github.com/brahmkshatriya/echo)
-- [Echo-Music](https://github.com/iad1tya/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
