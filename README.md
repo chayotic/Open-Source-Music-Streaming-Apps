@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="100%" style="max-width: 1200px; border-radius: 10px; margin-bottom: 20px;" height="768" alt="banniere" src="https://github.com/user-attachments/assets/fecef459-a2c2-4973-826f-f00c8d247ea8" />
+
+
 # Open Source Music Streaming Apps
 
 An up-to-date and curated list of free and open-source (FOSS) alternatives to Spotify, YouTube Music, and other music platforms.
