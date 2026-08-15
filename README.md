@@ -16,6 +16,7 @@ A curated and up-to-date list of free and open-source alternatives to Spotify, Y
     - [Online Streaming Clients (Windows)](#online-streaming-clients-windows)
     - [Offline Music Players (Windows)](#offline-music-players-windows)
   - [macOS](#macos)
+    - [Online Streaming Clients (macOS)](#online-streaming-clients-macos)
     - [Offline Music Players (macOS)](#offline-music-players-macos)
   - [Linux](#linux)
     - [Online Streaming Clients (Linux)](#online-streaming-clients-linux)
@@ -115,6 +116,13 @@ This repository lists free and open-source (FOSS) music applications that serve 
 ---
 
 ### macOS
+
+#### Online Streaming Clients (macOS)
+
+- [muffon](https://github.com/staniel359/muffon)
+- [Nuclear](https://github.com/nukeop/nuclear)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMDesktop](https://github.com/th-ch/youtube-music)
 
 #### Offline Music Players (macOS)
 
