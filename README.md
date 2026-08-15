@@ -17,6 +17,9 @@ A curated and up-to-date list of free and open-source alternatives to Spotify, Y
     - [Offline Music Players (Windows)](#offline-music-players-windows)
   - [macOS](#macos)
     - [Offline Music Players (macOS)](#offline-music-players-macos)
+  - [Linux](#linux)
+    - [Online Streaming Clients (Linux)](#online-streaming-clients-linux)
+    - [Offline Music Players (Linux)](#offline-music-players-linux)
 - [Web Applications](#web-applications)
 - [License](#license)
 
@@ -37,6 +40,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
+- [InnerTune](https://github.com/z-huang/InnerTune)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
@@ -118,9 +122,27 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
+### Linux
+
+#### Online Streaming Clients (Linux)
+
+- [muffon](https://github.com/staniel359/muffon)
+- [Nuclear](https://github.com/nukeop/nuclear)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMDesktop](https://github.com/th-ch/youtube-music)
+
+#### Offline Music Players (Linux)
+
+- [Amberol](https://gitlab.gnome.org/World/amberol)
+- [Harmonoid](https://github.com/harmonoid/harmonoid)
+- [Supersonic](https://github.com/dweymouth/supersonic)
+- [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox)
+
+---
+
 # Web Applications
 
-- [Monochrome](https:monochrome.tf/)
+- [Monochrome](https://monochrome.tf/)
 - [Octave](https://music.octavestreaming.com/)
 - [Piped](https://piped.video/)
 
