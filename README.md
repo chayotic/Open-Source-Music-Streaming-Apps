@@ -2,7 +2,6 @@
 A curated and up-to-date list of free and open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
 ![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps) 
-
 ![License: MIT](https://img.shields.io/badge/license-MIT-1a73e8?style=flat-square&labelColor=174ea6)
 
 ## Table of Contents
@@ -12,12 +11,11 @@ A curated and up-to-date list of free and open-source alternatives to Spotify, Y
   - [Offline Music Players](#offline-music-players)
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
-  - [Windows](#windows)
-    - [Online Streaming Clients (Windows)](#online-streaming-clients-windows)
-    - [Offline Music Players (Windows)](#offline-music-players-windows)
-  - [macOS](#macos)
-    - [Offline Music Players (macOS)](#offline-music-players-macos)
+  - [Windows Online Clients](#online-streaming-clients-windows)
+  - [Windows Offline Players](#offline-music-players-windows)
+  - [macOS Offline Players](#offline-music-players-macos)
 - [Web Applications](#web-applications)
+- [Resources](#resources)
 - [License](#license)
 
 ---
@@ -27,9 +25,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# Android Applications
+## Android Applications
 
-## Online Streaming Clients
+### Online Streaming Clients
 
 - [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
@@ -65,7 +63,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-## Offline Music Players
+### Offline Music Players
 
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -84,14 +82,14 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# iOS Applications
+## iOS Applications
 
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)
 
 ---
 
-# Desktop Applications
+## Desktop Applications
 
 ### Windows
 
@@ -118,9 +116,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# Web Applications
+## Web Applications
 
-- [Monochrome](https:monochrome.tf/)
+- [Monochrome](https://monochrome.tf/)
 - [Octave](https://music.octavestreaming.com/)
 - [Piped](https://piped.video/)
 
