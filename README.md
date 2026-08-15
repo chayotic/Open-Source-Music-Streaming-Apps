@@ -2,7 +2,6 @@
 A curated and up-to-date list of free and open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
 ![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps) 
-
 ![License: MIT](https://img.shields.io/badge/license-MIT-1a73e8?style=flat-square&labelColor=174ea6)
 
 ## Table of Contents
@@ -22,6 +21,7 @@ A curated and up-to-date list of free and open-source alternatives to Spotify, Y
     - [Online Streaming Clients (Linux)](#online-streaming-clients-linux)
     - [Offline Music Players (Linux)](#offline-music-players-linux)
 - [Web Applications](#web-applications)
+- [Resources](#resources)
 - [License](#license)
 
 ---
@@ -31,9 +31,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# Android Applications
+## Android Applications
 
-## Online Streaming Clients
+### Online Streaming Clients
 
 - [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
@@ -70,7 +70,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-## Offline Music Players
+### Offline Music Players
 
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -89,14 +89,14 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# iOS Applications
+## iOS Applications
 
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)
 
 ---
 
-# Desktop Applications
+## Desktop Applications
 
 ### Windows
 
@@ -141,14 +141,13 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 #### Offline Music Players (Linux)
 
-- [Amberol](https://gitlab.gnome.org/World/amberol)
 - [Harmonoid](https://github.com/harmonoid/harmonoid)
 - [Supersonic](https://github.com/dweymouth/supersonic)
 - [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox)
 
 ---
 
-# Web Applications
+## Web Applications
 
 - [Monochrome](https://monochrome.tf/)
 - [Octave](https://music.octavestreaming.com/)
