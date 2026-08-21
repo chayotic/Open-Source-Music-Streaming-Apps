@@ -41,6 +41,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Blazify](https://github.com/rajendra7169/blazify)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
+- [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
