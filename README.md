@@ -58,6 +58,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [Sautify](https://github.com/wambugu71/Sautify)
+- [Sepotify](https://github.com/RMNO21/Sepotify)
 - [Simple-Tube](https://github.com/samyak2403/Simple-Tube)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
