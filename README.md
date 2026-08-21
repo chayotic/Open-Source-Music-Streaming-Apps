@@ -2,7 +2,6 @@
 A curated and up-to-date list of free and open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
 ![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps) 
-
 ![License: MIT](https://img.shields.io/badge/license-MIT-1a73e8?style=flat-square&labelColor=174ea6)
 
 ## Table of Contents
@@ -16,8 +15,13 @@ A curated and up-to-date list of free and open-source alternatives to Spotify, Y
     - [Online Streaming Clients (Windows)](#online-streaming-clients-windows)
     - [Offline Music Players (Windows)](#offline-music-players-windows)
   - [macOS](#macos)
+    - [Online Streaming Clients (macOS)](#online-streaming-clients-macos)
     - [Offline Music Players (macOS)](#offline-music-players-macos)
+  - [Linux](#linux)
+    - [Online Streaming Clients (Linux)](#online-streaming-clients-linux)
+    - [Offline Music Players (Linux)](#offline-music-players-linux)
 - [Web Applications](#web-applications)
+- [Resources](#resources)
 - [License](#license)
 
 ---
@@ -27,9 +31,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# Android Applications
+## Android Applications
 
-## Online Streaming Clients
+### Online Streaming Clients
 
 - [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
@@ -38,6 +42,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
+- [InnerTune](https://github.com/z-huang/InnerTune)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
@@ -55,6 +60,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [Sautify](https://github.com/wambugu71/Sautify)
+- [Sepotify](https://github.com/RMNO21/Sepotify)
 - [Simple-Tube](https://github.com/samyak2403/Simple-Tube)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
@@ -69,7 +75,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-## Offline Music Players
+### Offline Music Players
 
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -90,14 +96,14 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ---
 
-# iOS Applications
+## iOS Applications
 
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)
 
 ---
 
-# Desktop Applications
+## Desktop Applications
 
 ### Windows
 
@@ -118,15 +124,39 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ### macOS
 
+#### Online Streaming Clients (macOS)
+
+- [muffon](https://github.com/staniel359/muffon)
+- [Nuclear](https://github.com/nukeop/nuclear)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMDesktop](https://github.com/th-ch/youtube-music)
+
 #### Offline Music Players (macOS)
 
 - [HiFidelity](https://github.com/rvarunrathod/HiFidelity)
 
 ---
 
-# Web Applications
+### Linux
 
-- [Monochrome](https:monochrome.tf/)
+#### Online Streaming Clients (Linux)
+
+- [muffon](https://github.com/staniel359/muffon)
+- [Nuclear](https://github.com/nukeop/nuclear)
+- [Spotube](https://github.com/KRTirtho/spotube)
+- [YTMDesktop](https://github.com/th-ch/youtube-music)
+
+#### Offline Music Players (Linux)
+
+- [Harmonoid](https://github.com/harmonoid/harmonoid)
+- [Supersonic](https://github.com/dweymouth/supersonic)
+- [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox)
+
+---
+
+## Web Applications
+
+- [Monochrome](https://monochrome.tf/)
 - [Octave](https://music.octavestreaming.com/)
 - [Piped](https://piped.video/)
 
