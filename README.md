@@ -158,7 +158,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 ## Web Applications
 
 - [Monochrome](https://monochrome.tf/)
-- [Octave](https://music.octavestreaming.com/)
 - [Piped](https://piped.video/)
 
 ---
