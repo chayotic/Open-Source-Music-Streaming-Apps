@@ -1,10 +1,6 @@
-# Open Source Music Streaming Apps
-A curated and up-to-date list of free and open-source alternatives to Spotify, YouTube Music, and other popular streaming platforms.
 
-![GitHub stars](https://img.shields.io/github/stars/chayotic/Open-Source-Music-Streaming-Apps) 
-![License: MIT](https://img.shields.io/badge/license-MIT-1a73e8?style=flat-square&labelColor=174ea6)
-
-## Table of Contents
+![Banner](media/banner.png)
+## Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
   - [Online Streaming Clients](#online-streaming-clients)
@@ -38,12 +34,10 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
-- [Blazify](https://github.com/rajendra7169/blazify)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
-- [InnerTune](https://github.com/z-huang/InnerTune)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
@@ -57,12 +51,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
 - [N-Zik](https://github.com/NEVARLeVrai/N-Zik)
 - [OuterTune](https://github.com/OuterTune/OuterTune)
-- [Pulse](https://github.com/its-ashutosh-pathak/Pulse)
 - [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
-- [Sautify](https://github.com/wambugu71/Sautify)
-- [Sepotify](https://github.com/RMNO21/Sepotify)
-- [Simple-Tube](https://github.com/samyak2403/Simple-Tube)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
 - [SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow)
@@ -84,7 +74,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Elovaire](https://github.com/droidbeauty/elovaire-music)
 - [Gramophone](https://github.com/Akanetan/Gramophone)
-- [Inaho](https://github.com/LoggingNewMemory/Inaho)
 - [Lotus](https://github.com/dn0ne/lotus)
 - [Lune](https://github.com/MrDemonc/Lune)
 - [Music](https://github.com/MissingCore/Music)
@@ -92,7 +81,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Pixel Player OSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
-- [Spicy Player](https://github.com/TheX24/Spicy-Player)
 - [Stash](https://github.com/rawnaldclark/Stash)
 
 ---
@@ -112,9 +100,9 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
+- [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [YTMDesktop](https://github.com/th-ch/youtube-music)
 
 #### Offline Music Players (Windows)
 
@@ -129,8 +117,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
+- [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [YTMDesktop](https://github.com/th-ch/youtube-music)
 
 #### Offline Music Players (macOS)
 
@@ -144,8 +132,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
+- [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [YTMDesktop](https://github.com/th-ch/youtube-music)
 
 #### Offline Music Players (Linux)
 
@@ -158,15 +146,15 @@ This repository lists free and open-source (FOSS) music applications that serve 
 ## Web Applications
 
 - [Monochrome](https://monochrome.tf/)
-- [Piped](https://piped.video/)
 
 ---
 
 ## Resources
 For downloading audio:
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [SpotiFlac](https://github.com/spotiflacapp/SpotiFLAC-Mobile/)
 
 ---
 
 ## License
-MIT License
+[CC0-1.0 License](LICENSE)
