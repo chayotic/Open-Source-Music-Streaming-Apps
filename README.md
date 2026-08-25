@@ -50,7 +50,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Namida](https://github.com/namidaco/namida)
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
 - [N-Zik](https://github.com/NEVARLeVrai/N-Zik)
-- [OuterTune](https://github.com/OuterTune/OuterTune)
 - [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
