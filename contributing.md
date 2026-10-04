@@ -5,7 +5,6 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
 - Use the following format: `[App Name](link)`.
 - New categories, or improvements to the existing categorization, are welcome.
 - The pull request and commit should have an appropriate title.
@@ -57,4 +56,4 @@ Sometimes a maintainer will ask you to edit your pull request before it is merge
 
 ## Removing or Flagging Existing Entries
 
-If you notice an entry that no longer meets these criteria, whether abandoned, taken down, or a fork with no real improvement over the original, please open an issue or pull request explaining why, with supporting evidence.
+If you notice an entry that no longer meets these criteria, whether abandoned, taken down, or if you would like your app removed from this list, or you believe an app has been listed without proper credit, license compliance, or for any other valid reason, please contact via [Email](mailto:rohithrpai07@proton.me)

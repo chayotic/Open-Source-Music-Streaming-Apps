@@ -18,6 +18,7 @@
     - [Offline Music Players (Linux)](#offline-music-players-linux)
 - [Web Applications](#web-applications)
 - [Resources](#resources)
+- [Removal Requests](#removal-requests)
 - [License](#license)
 
 ---
@@ -35,7 +36,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
-- [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
@@ -50,7 +50,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
-- [N-Zik](https://github.com/NEVARLeVrai/N-Zik)
+- [N-Zik](https://github.com/N-Zik-Group/N-Zik)
 - [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
@@ -155,6 +155,17 @@ This repository lists free and open-source (FOSS) music applications that serve 
 For downloading audio:
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [SpotiFlac](https://github.com/spotiflacapp/SpotiFLAC-Mobile/)
+
+---
+
+## Removal Requests
+
+If you would like your app removed from this list, or you believe an app has been listed without proper credit, license compliance, or for any other valid reason, please get in touch via [Email](mailto:rohithrpai07@proton.me).
+
+When writing, please include:
+- The name of the app and its repository link
+- The reason for the request (e.g. missing credits, license violation, project discontinued, or personal preference)
+- Proof of ownership or authorship, if you are the developer
 
 ---
 
