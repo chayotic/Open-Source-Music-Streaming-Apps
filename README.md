@@ -32,7 +32,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ### Online Streaming Clients
 
-- [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
@@ -52,7 +51,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Namida](https://github.com/namidaco/namida)
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
 - [N-Zik](https://github.com/N-Zik-Group/N-Zik)
-- [retune](https://github.com/samvabya/retune)
 - [RiPlay](https://github.com/fast4x/RiPlay)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
@@ -69,7 +67,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ### Offline Music Players
 
-- [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+- [Audiofy](https://github.com/googol-apps/Audiofy)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [BoomingMusic](https://github.com/mardous/BoomingMusic)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
@@ -157,7 +155,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Web Applications
 
-- [Monochrome](https://monochrome.tf/)
+- [Monochrome](https://monochrome.st/)
 
 ---
 

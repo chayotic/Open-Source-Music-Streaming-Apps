@@ -5,7 +5,7 @@ Delete this comment block once you've read it.
 
 ## What does this PR do?
 
-<!-- e.g. "Adds Musify" or "Removes Octave, project appears abandoned" -->
+<!-- e.g. "Add appName" or "Remove appName, project appears abandoned/archived etc." -->
 
 ## Type of change
 
@@ -25,4 +25,4 @@ Delete this comment block once you've read it.
 
 ## If removing or flagging an entry, explain why
 
-<!-- e.g. abandoned, repo taken down, archived, no longer open-source, duplicate, etc. Include a link/evidence if possible. -->
+<!-- e.g. abandoned, repo taken down, archived, no longer open-source, duplicate,violates licenses etc. Include a link/evidence if possible. -->

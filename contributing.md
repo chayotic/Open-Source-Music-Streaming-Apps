@@ -13,7 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 An app must meet all of the following before it will be added:
 
-- At least 30 stars on GitHub.
+- At least 50 stars on GitHub.
 - The repository is at least 30 days old.
 - At least one commit within the last 6 months (exceptions for offline players are acknowledged). Existing entries that fall out of activity for longer than this may be removed.
 - Evidence the app actually works: a release, an APK, or a demo screenshot or GIF in the app's own README. Source code alone, with nothing showing it runs, is not sufficient.
