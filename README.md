@@ -35,6 +35,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [AirBeats](https://github.com/d0x-dev/AirBeats)
 - [ArchiveTune](https://github.com/koiverse/ArchiveTune)
 - [AuraMusic](https://github.com/TeamAuraMusic/AuraMusic)
+- [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
@@ -100,10 +101,13 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 #### Online Streaming Clients (Windows)
 
+- [BitChord](https://github.com/kushagrasinghx/BitChord/)
+- [limusic](https://github.com/SimoHypers/limusic)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+- [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Offline Music Players (Windows)
@@ -117,9 +121,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 #### Online Streaming Clients (macOS)
 
+- [BitChord](https://github.com/kushagrasinghx/BitChord/)
+- [limusic](https://github.com/SimoHypers/limusic)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
+- [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Offline Music Players (macOS)
@@ -132,9 +139,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 #### Online Streaming Clients (Linux)
 
+- [BitChord](https://github.com/kushagrasinghx/BitChord/)
+- [limusic](https://github.com/SimoHypers/limusic)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
+- [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Offline Music Players (Linux)
