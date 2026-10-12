@@ -1,0 +1,22 @@
+name: Check application links
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check-links:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Run regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Validate application links
+        run: python3 scripts/check_links.py
+      - name: Review public repository status
+        run: python3 scripts/check_links.py --online

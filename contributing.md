@@ -57,3 +57,46 @@ Sometimes a maintainer will ask you to edit your pull request before it is merge
 ## Removing or Flagging Existing Entries
 
 If you notice an entry that no longer meets these criteria, whether abandoned, taken down, or if you would like your app removed from this list, or you believe an app has been listed without proper credit, license compliance, or for any other valid reason, please contact via [Email](mailto:rohithrpai07@proton.me)
+
+## Automated application-link checks
+
+Run these commands from the repository root with Python 3.10 or newer. No
+additional packages or GitHub credentials are needed:
+
+```sh
+python3 -m unittest discover -s tests -v
+python3 scripts/check_links.py
+python3 scripts/check_links.py --online
+```
+
+The checker covers the one-line list entries in Android Applications, iOS
+Applications, Desktop Applications, Web Applications, and Resources. Keep each
+entry in the existing `- [App Name](https://...)` format. Relative images,
+contents links, and contact links outside these sections are not checked. This
+is a deliberately narrow parser, not a general Markdown validator. If categories
+or entry formatting change, update the checker and its tests in the same PR.
+
+- **Errors** fail the check: non-HTTPS or malformed URLs, embedded credentials,
+  backslashes/control characters, non-default ports, ambiguous hostnames,
+  unsupported entry syntax, and GitHub links that are not repository roots.
+- **Warnings** request human review: a missing/private repository, an archived
+  repository, a redirect or changed repository identity, or an incomplete API
+  check (for example, rate limits, timeouts, or an unexpected response).
+- **Offline mode** validates syntax only. With `--online`, each distinct GitHub
+  repository is checked once using public metadata from `api.github.com`.
+  No other destination is fetched; redirects are never followed. Requests have
+  timeouts and response-size limits and use neither credentials nor environment
+  proxies. Unauthenticated API limits can leave some checks incomplete; the
+  report explicitly labels these as warnings.
+
+GitHub Actions runs tests and both modes for pull requests, pushes to `main`,
+and manual runs. The workflow uses read-only permissions, a commit-pinned
+checkout action with persisted credentials disabled, and no secrets. The report
+is available in the workflow logs. First-time contributor workflows may require
+maintainer approval before they run.
+
+These checks do not audit application code, verify downloads, detect every
+lookalike domain, or prove an app is safe. A working HTTPS link or unarchived
+repository is not a security endorsement. Redirects and archived projects are
+review signals, not proof of compromise. The workflow reports changes; it does
+not automatically remove entries or post comments.
