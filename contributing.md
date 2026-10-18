@@ -42,7 +42,7 @@ Low-quality or low-effort repository submissions will not be added. This is judg
 
 ```
 - [ ] Entry is not a duplicate of an existing entry
-- [ ] Repository has at least 30 stars
+- [ ] Repository has at least 50 stars
 - [ ] Repository is at least 30 days old
 - [ ] Repository has a commit within the last 6 months
 - [ ] README of the repository is in English or has an English README linked in the primary README

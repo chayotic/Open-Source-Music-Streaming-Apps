@@ -40,7 +40,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
 - [Kreate](https://github.com/knighthat/Kreate)
-- [lyraMusic](https://github.com/lyraMusicApp/lyraMusic)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
@@ -161,8 +160,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Resources
 For downloading audio:
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [SpotiFlac](https://github.com/spotiflacapp/SpotiFLAC-Mobile/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ---
 
