@@ -51,6 +51,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
 - [N-Zik](https://github.com/N-Zik-Group/N-Zik)
 - [RiPlay](https://github.com/fast4x/RiPlay)
+- [SaavnMp3](https://github.com/harshshah6/SaavnMp3-Android)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SoundPod](https://github.com/arunnechully/SoundPod)
 - [SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow)
