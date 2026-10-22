@@ -161,7 +161,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Resources
 For downloading audio:
-- [SpotiFlac](https://github.com/spotiflacapp/SpotiFLAC-Mobile/)
+- [Mornye](https://github.com/mornyeapp/Mornye)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ---
