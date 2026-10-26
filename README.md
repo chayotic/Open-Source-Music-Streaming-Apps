@@ -45,7 +45,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 - [Music-You](https://github.com/DanielSevillano/music-you)
 - [Musify](https://github.com/gokadzev/Musify)
-- [Muzo](https://github.com/Shashwat-CODING/Muzo)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
 - [NomaTune](https://github.com/Shahdullah/NomaTune)
