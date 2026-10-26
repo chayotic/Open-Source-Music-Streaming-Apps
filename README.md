@@ -77,6 +77,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Lune](https://github.com/MrDemonc/Lune)
 - [mucke](https://github.com/moritz-weber/mucke)
 - [Music](https://github.com/MissingCore/Music)
+- [Namida](https://github.com/namidaco/namida)
 - [OnePlayer](https://github.com/googol-apps/OnePlayer)
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [Pixel Player OSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS)
