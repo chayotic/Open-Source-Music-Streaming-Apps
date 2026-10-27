@@ -98,6 +98,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 #### Online Streaming Clients (Windows)
 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
+- [cloudmus](https://github.com/cloudmus/cloudmus)
 - [limusic](https://github.com/SimoHypers/limusic)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
@@ -136,6 +137,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 #### Online Streaming Clients (Linux)
 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
+- [cloudmus](https://github.com/cloudmus/cloudmus)
 - [limusic](https://github.com/SimoHypers/limusic)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
