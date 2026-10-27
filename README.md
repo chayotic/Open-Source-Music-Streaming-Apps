@@ -56,7 +56,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [Spotui](https://github.com/Spotui/Spotui)
 - [Stash](https://github.com/rawnaldclark/Stash)
-- [Tryptify](https://github.com/tryptz/Tryptify)
 - [Velune](https://github.com/nikhilvishwakarma00/Velune)
 - [ViTune](https://github.com/25huizengek1/ViTune)
 - [VIVI Music](https://github.com/vivizzz007/vivi-music)
