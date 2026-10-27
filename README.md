@@ -99,13 +99,13 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [cloudmus](https://github.com/cloudmus/cloudmus)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 
 #### Offline Music Players (Windows)
 
@@ -120,12 +120,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 
 #### Offline Music Players (macOS)
 
@@ -140,6 +140,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [cloudmus](https://github.com/cloudmus/cloudmus)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
