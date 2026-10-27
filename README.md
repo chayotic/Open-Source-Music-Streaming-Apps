@@ -154,8 +154,8 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## Web Applications
 
+- [AxioTune](https://github.com/Axion-Builds/AxioTune) - Modern web audio player with Apple Liquid Glass UI, syllable-level karaoke synced lyrics, and Web Audio DSP.
 - [Monochrome](https://monochrome.st/)
-
 ---
 
 ## Resources
