@@ -146,7 +146,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
-- [Mixtapes](https://github.com/m-obeid/Mixtapes)
 
 #### Offline Music Players (Linux)
 
