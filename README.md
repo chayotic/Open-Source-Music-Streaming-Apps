@@ -79,7 +79,6 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Pixel Player OSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
-- [Stash](https://github.com/rawnaldclark/Stash)
 
 ---
 
