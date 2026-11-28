@@ -38,6 +38,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Blazify](https://github.com/rajendra7169/blazify)
 - [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 - [Convx](https://github.com/cosmictaserdev-creator/Convx)
+- [Cubic Music](https://github.com/cybruGhost/Cubic-Music)
 - [Echo Music](https://github.com/EchoMusicApp/Echo-Music)
 - [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music)
 - [Just-Listen](https://github.com/RLD-JL/Just-Listen)
@@ -45,7 +46,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [Levyra](https://github.com/LUC4N3X/Levyra-deepsound)
 - [M3-Play](https://github.com/JAY01-CYBER/M3-Play)
 - [Meld](https://github.com/FrancescoGrazioso/Meld)
-- [Metrolist](https://github.com/mostafaalagamy/Metrolist)
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Music-You](https://github.com/DanielSevillano/music-you)
 - [Musify](https://github.com/gokadzev/Musify)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
@@ -87,6 +88,7 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 ## iOS Applications
 
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Spotube](https://github.com/KRTirtho/spotube)
 - [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)
 
@@ -102,10 +104,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [cloudmus](https://github.com/cloudmus/cloudmus)
 - [Levyra](https://github.com/LUC4N3X/Levyra-deepsound)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
+- [RiPlay](https://github.com/fast4x/RiPlay)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
@@ -123,10 +127,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 
 - [BitChord](https://github.com/kushagrasinghx/BitChord/)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
+- [RiPlay](https://github.com/fast4x/RiPlay)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
@@ -144,10 +150,12 @@ This repository lists free and open-source (FOSS) music applications that serve 
 - [cloudmus](https://github.com/cloudmus/cloudmus)
 - [Levyra](https://github.com/LUC4N3X/Levyra-deepsound)
 - [limusic](https://github.com/SimoHypers/limusic)
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Mixtapes](https://github.com/m-obeid/Mixtapes)
 - [muffon](https://github.com/staniel359/muffon)
 - [Nuclear](https://github.com/nukeop/nuclear)
 - [Pear Desktop](https://github.com/pear-devs/pear-desktop)
+- [RiPlay](https://github.com/fast4x/RiPlay)
 - [sonora](https://github.com/sonorahq/sonora)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
